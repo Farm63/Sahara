@@ -7,6 +7,10 @@
 - @Silver Role: Obtain 23,850 XP, level 20
 - @Bronze Role: Obtain 4,675 XP, level 10
 
+## OG
+- ognabin
+- Saiyit4
+
 ## Tasks
 
 - Complete All Task [ Claim Shards ]
